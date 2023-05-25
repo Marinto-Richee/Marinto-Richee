@@ -22,3 +22,5 @@ If you're interested in collaborating or have any questions, feel free to reach 
 - LinkedIn: [Marinto Richee J](https://www.linkedin.com/in/marinto-richee/)
 
 Let's connect and create something amazing together!
+<br><br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=dark&show_icons=true)
