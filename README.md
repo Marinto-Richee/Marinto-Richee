@@ -13,15 +13,7 @@ I'm a pre-final year college student passionate about AI and Data Science. Curre
 
 Feel free to explore my GitHub repositories to see more of my work. 😶‍🌫️ 🧐
 
-## Contact Me
-
-If you're interested in collaborating or have any questions, feel free to reach out to me 🤙 :
-
-
-- Email: [marinto3sja@gmail.com](mailto:marinto3sja@gmail.com)
-- LinkedIn: [Marinto Richee J](https://www.linkedin.com/in/marinto-richee/)
-
-Let's connect and create something amazing together!
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Marinto-Richee&style=flat-square&color=blue" alt=""></p>
 
 <a href="(https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github)">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github" />
@@ -29,3 +21,14 @@ Let's connect and create something amazing together!
 <a href="[(https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10" />
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marinto-Richee&theme=dark&background=000000)](https://git.io/streak-stats)
+
+## Contact Me
+
+If you're interested in collaborating or have any questions, feel free to reach out to me 🤙 :
+
+- Email: [marinto3sja@gmail.com](mailto:marinto3sja@gmail.com)
+- LinkedIn: [Marinto Richee J](https://www.linkedin.com/in/marinto-richee/)
+
+Let's connect and create something amazing together!
