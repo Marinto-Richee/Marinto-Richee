@@ -22,5 +22,10 @@ If you're interested in collaborating or have any questions, feel free to reach 
 - LinkedIn: [Marinto Richee J](https://www.linkedin.com/in/marinto-richee/)
 
 Let's connect and create something amazing together!
-<br><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=dark&show_icons=true)
+
+<a href="[https://github.com/anuraghazra/convoychat](https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=transparent&show_icons=true)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=transparent&show_icons=true" />
+</a>
+<a href="[(https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent" />
+</a>
