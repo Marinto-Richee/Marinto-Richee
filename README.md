@@ -23,9 +23,9 @@ If you're interested in collaborating or have any questions, feel free to reach 
 
 Let's connect and create something amazing together!
 
-<a href="[https://github.com/anuraghazra/convoychat](https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=transparent&show_icons=true)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=transparent&show_icons=true" />
+<a href="(https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github" />
 </a>
-<a href="[(https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent" />
+<a href="[(https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10" />
 </a>
