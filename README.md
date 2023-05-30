@@ -15,11 +15,11 @@ Feel free to explore my GitHub repositories to see more of my work. 😶‍🌫�
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Marinto-Richee&style=flat-square&color=blue" alt=""></p>
 
-<a href="(https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github" />
+<a href="(https://readmestats.999857.xyz/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github)">
+  <img align="center" src="https://readmestats.999857.xyz/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github" />
 </a>
-<a href="[(https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10" />
+<a href="[(https://github.com/anuraghazra/github-readme-stats)](https://readmestats.999857.xyz/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10)">
+  <img align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10" />
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marinto-Richee&theme=dark&background=000000)](https://git.io/streak-stats)
