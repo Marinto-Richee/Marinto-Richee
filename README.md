@@ -4,12 +4,12 @@ I'm a pre-final year college student passionate about AI and Data Science. Curre
 
 ## Skills and Interests
 
-- Artificial Intelligence 🫡
-- Machine Learning 🫡
-- Deep Learning 🫡
-- Digital Image Processing 🫡
-- Neural Networks 🫡
-- Applied AI 🫡
+- Artificial Intelligence 
+- Machine Learning 
+- Deep Learning 
+- Digital Image Processing 
+- Neural Networks 
+- Applied AI 
 
 Feel free to explore my GitHub repositories to see more of my work. 😶‍🌫️ 🧐
 
