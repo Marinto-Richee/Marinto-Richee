@@ -22,8 +22,7 @@ Feel free to explore my GitHub repositories to see more of my work. 😶‍🌫�
   <img align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marinto-Richee&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marinto-Richee&theme=transparent&background=000000&mode=weekly)](https://git.io/streak-stats)
 ## Contact Me
 
 If you're interested in collaborating or have any questions, feel free to reach out to me 🤙 :
