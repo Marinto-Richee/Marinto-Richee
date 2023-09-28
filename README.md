@@ -1,33 +1,45 @@
-# Hi, I'm Marinto Richee👋
+<!-- Header Section -->
+<h1 align="center">👋 Hi, I'm Marinto Richee</h1>
+<h3 align="center">Passionate about AI and Data Science</h3>
 
-I'm a pre-final year college student passionate about AI and Data Science. Currently, I'm exploring various projects related to Deep Learning, Digital Image Processing, Neural Nets, Applied AI, Parallel Computing, and Embedded Board Design. I love working on projects in the field of AI and ML and I'm actively seeking collaborations to further enhance my skills 😮‍💨.
+<!-- Introduction Section -->
+<p align="center">
+  I'm a final-year college student exploring the realms of AI, Data Science, and more. I'm actively seeking collaborations to enhance my skills and create amazing projects!
+</p>
 
-## Skills and Interests
+<!-- Skills and Interests Section -->
+<h2 align="center">Skills and Interests</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Artificial Intelligence-blue" alt="AI">
+  <img src="https://img.shields.io/badge/-Machine Learning-green" alt="ML">
+  <img src="https://img.shields.io/badge/-Deep Learning-orange" alt="DL">
+  <img src="https://img.shields.io/badge/-Digital Image Processing-red" alt="DIP">
+  <img src="https://img.shields.io/badge/-Neural Networks-purple" alt="NN">
+  <img src="https://img.shields.io/badge/-Applied AI-yellow" alt="Applied AI">
+</p>
 
-- Artificial Intelligence 
-- Machine Learning 
-- Deep Learning 
-- Digital Image Processing 
-- Neural Networks 
-- Applied AI 
+<!-- GitHub Stats and Streaks Section -->
+<div align="center">
+  <a href="https://readmestats.999857.xyz/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github">
+    <img src="https://readmestats.999857.xyz/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <a href="https://readmestats.999857.xyz/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10">
+    <img src="https://readmestats.999857.xyz/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10" alt="Top Languages" />
+  </a>
+</div>
 
-Feel free to explore my GitHub repositories to see more of my work. 😶‍🌫️ 🧐
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Marinto-Richee&style=flat-square&color=blue" alt=""></p>
+<!-- Contact Information Section -->
+<h2 align="center">Contact Me 🤙</h2>
+<p align="center">
+  If you're interested in collaborating or have any questions, feel free to reach out to me:
+</p>
+<p align="center">
+  📧 Email: <a href="mailto:marinto3sja@gmail.com">marinto3sja@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/marinto-richee/">Marinto Richee J</a>
+</p>
 
-<a href="(https://readmestats.999857.xyz/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github)">
-  <img align="center" src="https://readmestats.999857.xyz/api?username=Marinto-Richee&theme=transparent&show_icons=true&rank_icon=github" />
-</a>
-<a href="[(https://github.com/anuraghazra/github-readme-stats)](https://readmestats.999857.xyz/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10)">
-  <img align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=Marinto-Richee&layout=donut&theme=transparent&langs_count=10" />
-</a>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marinto-Richee&theme=transparent&background=000000&mode=weekly)](https://git.io/streak-stats)
-## Contact Me
-
-If you're interested in collaborating or have any questions, feel free to reach out to me 🤙 :
-
-- Email: [marinto3sja@gmail.com](mailto:marinto3sja@gmail.com)
-- LinkedIn: [Marinto Richee J](https://www.linkedin.com/in/marinto-richee/)
-
-Let's connect and create something amazing together!
+<!-- Footer Section -->
+<p align="center">
+  Let's connect and create something amazing together!
+</p>
