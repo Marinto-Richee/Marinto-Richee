@@ -40,13 +40,6 @@
   💼 LinkedIn: <a href="https://www.linkedin.com/in/marinto-richee/">Marinto Richee J</a>
 </p>
 
-<!-- GitHub Readme Stats Section -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Marinto-Richee&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="GitHub Stats" />
-  </a>
-</p>
-
 <!-- Footer Section -->
 <p align="center">
   Let's connect and create something amazing together! 😊
