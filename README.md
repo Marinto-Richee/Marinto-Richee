@@ -22,6 +22,7 @@ Pro tip: My code runs on 50% Python, 30% caffeine, and 20% *Distracted Boyfriend
 - TensorFlow 2.x for next-level model flexing 🧠
 - CUDA for GPU-accelerated *zoom zoom* parallel computing ⚡
 - OpenCV tricks to make images *pop* 📸
+- GitHub Actions for automatic README updates 🤖
 
 ## 📊 GitHub Stats (aka My Street Cred)
 <div align="center">
@@ -40,9 +41,36 @@ Got a wild AI idea or just wanna talk about the *Doge* meme? Hit me up:
   💼 LinkedIn: <a href="https://www.linkedin.com/in/marinto-richee/">Marinto Richee J</a>
 </p>
 
-## 🩸 Meme of the day 🙂 
+## 🤣 Random AI Meme Generator
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG0xdmt5cGg3NmdmaWhqazQ0amM1NnRvNTBmNW01cHg3emZuamk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" alt="Bloody Nose Meme" width="200"/>
+  <img src="https://memer.dev/random?category=ai&ts=1" alt="Random AI Meme" width="300"/>
   <br>
-  *When you try to train a model with 0.99 learning rate* 😵
+  <em>Reload the page for a fresh AI meme! 🔄</em>
 </p>
+
+<details>
+  <summary>🎭 More Meme Categories (Click to expand)</summary>
+  
+  ### Choose Your Meme Flavor
+  
+  <p align="center">
+    <a href="https://github.com/Marinto-Richee#ml-memes"><img src="https://img.shields.io/badge/ML%20Memes-00FF00?style=for-the-badge" alt="ML Memes"></a>
+    <a href="https://github.com/Marinto-Richee#python-memes"><img src="https://img.shields.io/badge/Python%20Memes-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Memes"></a>
+    <a href="https://github.com/Marinto-Richee#debugging-memes"><img src="https://img.shields.io/badge/Debugging%20Memes-FF6B6B?style=for-the-badge" alt="Debugging Memes"></a>
+  </p>
+  
+  <div id="ml-memes">
+    <h4>🧠 Machine Learning Pain</h4>
+    <img src="https://memer.dev/random?category=machine-learning&ts=2" alt="Random ML Meme" width="300"/>
+  </div>
+  
+  <div id="python-memes">
+    <h4>🐍 Python Struggles</h4>
+    <img src="https://memer.dev/random?category=python&ts=3" alt="Random Python Meme" width="300"/>
+  </div>
+  
+  <div id="debugging-memes">
+    <h4>🐛 Debugging Nightmares</h4>
+    <img src="https://memer.dev/random?category=debugging&ts=4" alt="Random Debugging Meme" width="300"/>
+  </div>
+</details>

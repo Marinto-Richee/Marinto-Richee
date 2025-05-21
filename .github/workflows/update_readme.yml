@@ -1,0 +1,54 @@
+name: Update README with Random Memes
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Update README timestamps
+        run: |
+          import re
+          import random
+          from datetime import datetime
+          
+          # Read the current README
+          with open('README.md', 'r') as file:
+              content = file.read()
+          
+          # Generate new timestamps
+          current_time = int(datetime.now().timestamp())
+          random_timestamps = [current_time + random.randint(1, 1000000) for _ in range(5)]
+          
+          # Replace timestamps in meme URLs
+          pattern = r'memer\.dev/random\?category=[^&]+&ts=\d+'
+          matches = re.findall(pattern, content)
+          
+          for i, match in enumerate(matches):
+              if i < len(random_timestamps):
+                  new_ts = random_timestamps[i]
+                  new_url = re.sub(r'ts=\d+', f'ts={new_ts}', match)
+                  content = content.replace(match, new_url)
+          
+          # Write updated README
+          with open('README.md', 'w') as file:
+              file.write(content)
+        shell: python
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update meme timestamps [skip ci]"
+          git push
