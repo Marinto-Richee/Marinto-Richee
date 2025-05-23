@@ -40,7 +40,7 @@ Got a wild AI idea or just wanna talk about the *Doge* meme? Hit me up:
   💼 LinkedIn: <a href="https://www.linkedin.com/in/marinto-richee/">Marinto Richee J</a>
 </p>
 
-## 🩸 Meme of the day 🙂 
+## LE me!:
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG0xdmt5cGg3NmdmaWhqazQ0amM1NnRvNTBmNW01cHg3emZuamk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" alt="Bloody Nose Meme" width="200"/>
   <br>
