@@ -33,11 +33,12 @@ Pro tip: My code runs on 50% Python, 30% caffeine, and 20% *Distracted Boyfriend
   </a>
 </div>
 
+
 ## 📩 Slide into My DMs
 Got a wild AI idea or just wanna talk about the *Doge* meme? Hit me up:
 <p align="center">
   📧 Email: <a href="mailto:marinto3sja@gmail.com">marinto3sja@gmail.com</a><br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/marinto-richee/">Marinto Richee J</a>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/marinto-richee/">Marinto Richee J</a>   
 </p>
 
 ## LE me!:
