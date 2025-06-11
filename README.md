@@ -1,4 +1,4 @@
-# 👋 Yo, What's Good? I'm Marinto Richee
+# 👋 Hlo! What's Good? I'm Marinto Richee
 
 ## 🤖 About Me
 Hey there, internet traveler! I'm Marinto, a fresh grad who's basically married to AI, Data Science, and all things tech. Picture me sipping coffee at 3 AM, debugging neural nets, and vibing to lo-fi beats. I'm all about cooking up Deep Learning models, messing with Digital Image Processing, and yeeting impactful AI projects into the universe. Wanna collab and make some *meme-worthy* tech? Let's do this! 🚀
