@@ -45,5 +45,6 @@ Got a wild AI idea or just wanna talk about the *Doge* meme? Hit me up:
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG0xdmt5cGg3NmdmaWhqazQ0amM1NnRvNTBmNW01cHg3emZuamk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" alt="Bloody Nose Meme" width="200"/>
   <br>
-  *When you try to train a model with 0.99 learning rate* 😵
+  Einstein: 'Insanity is doing the same thing and expecting different results.' 
+  ML Engineers: Tweaks hyperparameters, runs model 500th time for 0.02% accuracy boost 😵
 </p>
