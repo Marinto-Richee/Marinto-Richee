@@ -41,7 +41,7 @@ Got a wild AI idea or just wanna talk about the *Doge* meme? Hit me up:
   💼 LinkedIn: <a href="https://www.linkedin.com/in/marinto-richee/">Marinto Richee J</a>   
 </p>
 
-## LE me!:
+## WISDOM!:
 <p align="center">
   <br>
     Einstein: 'Insanity is doing the same thing and expecting different results.'
