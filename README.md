@@ -44,14 +44,14 @@ Got a wild AI idea or just wanna talk about the *Doge* meme? Hit me up:
 ## WISDOM!:
 <p align="center">
   <br>
-    Einstein: 'Insanity is doing the same thing and expecting different results.'
+   Accuracy on training data: 99%
+  <br>
+   Accuracy on validation data: 50%
+  <br>
+   The model thinks it's a perfect student, but it's just a great memorizer.
   <br>
   <br>
-  ML Engineers: Tweaks hyperparameters, runs model 500th time for 0.02% accuracy boost 😵
+  <img src="https://media1.tenor.com/m/REs2qtZd7KIAAAAd/posing-wife-swap.gif" alt="Bloody Nose Meme" width="200"/>
   <br>
   
-  <br>
-  
-  <img src="https://media.tenor.com/RTuxGX6pa90AAAAM/wtf-is-going-on-confused.gif" alt="Bloody Nose Meme" width="200"/>
-
 </p>
